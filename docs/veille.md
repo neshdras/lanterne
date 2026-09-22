@@ -16,4 +16,10 @@ Consulté le 22/09/2026
  
 Ls projets devront être mis en place sur Node.js 24 et les anciens projets devront faire une migration vers Node.js 24
 
-# gfb
+# CLI Vercel
+
+https://vercel.com/docs/cli/domains#global-options
+
+Consulté le 22/06/2026
+
+Permet d'avoir les commandes du terminale pour Vercel
