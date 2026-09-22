@@ -55,9 +55,10 @@ POur initialiser Vercel sur la machine
 `npm i -g vercel`
 
 ## Etape 2 
-Deployer l'API 
+Connexion 
 
-`vercel`
+`vercel login`
+suivre les indication de vercel pour la connexion
 
 ## Etape 3 
 Initialiser la variable LANTERNE_ENV 
