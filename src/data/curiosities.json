@@ -40,5 +40,12 @@
     "city": "La Rochelle",
     "category": "mémoire",
     "description": "Une ancienne remise de quai devenue un repère pour les promeneurs curieux."
+  },
+  {
+    "slug": "cabane-des-berger",
+    "title": "La cabane des bergers",
+    "city": "Espelette",
+    "category": "mémoire",
+    "description": "Une ancienne cabane de berger dans les Pyrénnées pour ce protéger de la pluie et passer la nuit à l'abri."
   }
 ]
