@@ -34,7 +34,7 @@
 src/index.js
 
 # Variable d'environnement 
-ALLOWED_ORIGIN est le nom de domaine autorisant les requetes, il est configuré par Cors. Toute requete sera avorter si le nom de domaine n'est initialisé dans le cors.
+
 LANTERNE_ENV est la valeur du projet, soit production soit preview
 
 # Version de Node.js
@@ -50,4 +50,15 @@ version 24 or sup for Vercel
 # Deploiement
 
 ## Etape 1
-npm i -g vercel
+POur initialiser Vercel sur la machine
+
+`npm i -g vercel`
+
+## Etape 2 
+Deployer l'API 
+
+`vercel`
+
+## Etape 3 
+Initialiser la variable LANTERNE_ENV 
+`vercel --env LANTERNE_ENV=production`
