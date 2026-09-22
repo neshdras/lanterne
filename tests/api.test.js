@@ -1,6 +1,6 @@
 const assert = require('node:assert/strict');
 
-const app = require('../api/index');
+const app = require('../src/index');
 
 const server = app.listen(0, async () => {
   const { port } = server.address();

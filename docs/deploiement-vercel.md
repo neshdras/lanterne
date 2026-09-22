@@ -63,3 +63,9 @@ suivre les indication de vercel pour la connexion
 ## Etape 3 
 Initialiser la variable LANTERNE_ENV 
 `vercel --env LANTERNE_ENV=production`
+
+# Rollback
+Via le site de Vercel, le retour en arrière en possible si il y a un probleme sur une nouvelle version en production
+
+# Preview
+Si des modifications doivent être faites, passer par un preview
